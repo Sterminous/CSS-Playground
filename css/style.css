@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Bebas+Neue&display=swap');
+body {
+    background-color: darksalmon;
+}
+.heading {
+    text-align: center;
+}
+.playground-heading {
+    color: darkcyan;
+    font-family: 'Bakbak One', cursive;
+    font-size: 5rem;
+}
+.border {
+    border: 3px solid grey;
+    width: 55%;
+    margin: 1rem auto;
+}
+.border div {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+#red {
+    border-color: red;
+}
+#green {
+    border-color: green;
+}
+#blue {
+    border-color: blue;
+}
+.footer {
+    color: darkviolet;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 2rem;
+}
